@@ -8,7 +8,7 @@ To ensure a smooth experience, make sure to install the necessary LSP servers, P
 
 Before proceeding with the installation, please ensure that you have made a backup of your existing configurations. Once you have confirmed that the backup is in place and empty, you can run the following command:
 
-    git clone https:/github.com/igorcguedes/SaleVim ~/.config/nvim
+    https://github.com/j-mcn/neovimconfig.git ~/.config/nvim
     
 Space is the Leader Key, you can use to Deploy, check keybinds, search for files and many more.
     
